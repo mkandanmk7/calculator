@@ -14,7 +14,7 @@ function solution() {
     confirm("First Enter a Number !");
     return;
   } else if (cal == "18-02-2000") {
-    confirm("Mythu ne waste ");
+    confirm("Mythu ne waste...!");
   } else if (cal == "07-12-2020") {
     confirm("OK ! Keo sale Pannikalam...");
   }
